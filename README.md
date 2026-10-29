@@ -18,8 +18,8 @@ Make sure the repository is Public and initialize it with a README. Then, copy a
   <tr>
     <td width="55%" valign="top">
       <h2>👨‍💻 About Me</h2>
-      <p><b>I am currently pursuing the B.E. degree in Information Science and Engineering at RV College of Engineering, Bengaluru, India. My academic and technical interests span artificial intelligence, machine learning, blockchain, computer vision, backend systems, Internet of Things, and intelligent automation.</p>
-      <p>I have worked on projects involving computer vision, decentralized applications, AI-based automation, backend architectures, Raspberry Pi and Arduino-based IoT systems, and cloud-integrated applications. I am also involved in student coordination and technical activities at RV College of Engineering. I am interested in developing practical and scalable intelligent systems that combine artificial intelligence, software engineering, and emerging technologies to address real-world problems.</p></p>
+      <p><b>BELLAMKONDA LIKHITH PRAVEEN</b> is currently pursuing the B.E. degree in information science and engineering with the RV College of Engineering, Bengaluru, India. His academic and technical interests span artificial intelligence, machine learning, blockchain, computer vision, backend systems, Internet of Things, and intelligent automation.</p>
+      <p>He has worked on projects involving computer vision, decentralized applications, AI-based automation, backend architectures, Raspberry Pi and Arduino-based IoT systems, and cloud-integrated applications. Mr. Bellamkonda is also involved in student coordination and technical activities at RV College of Engineering. He is interested in developing practical and scalable intelligent systems that combine artificial intelligence, software engineering, and emerging technologies to address real-world problems.</p>
     </td>
     <td width="45%" valign="top">
       <h2>🛠️ Languages & Technologies</h2>
@@ -91,7 +91,6 @@ WhatsAppCalender is an Android application built using Kotlin, with a Node.js an
 wispr-flow is an Android dictation application designed to convert speech into text and improve the generated output using a local language model. It uses a floating control to start and stop voice input, with the goal of making dictation available across other Android applications. The application follows an offline-first approach to reduce dependence on cloud APIs and associated usage costs. It is intended to support Hinglish and Kanglish, allowing Hindi and Kannada words to be typed using English letters. Its local rewriting layer aims to turn raw speech into cleaner, personalized text while keeping processing on the device wherever possible.
 
 <br/>
-## 📈 GitHub Activity
 
 <h2 align="center">📊 GitHub Statistics</h2>
 <table align="center">
@@ -107,6 +106,12 @@ wispr-flow is an Android dictation application designed to convert speech into t
     <td colspan="2" align="center">
       <br/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=likhithbellamkonda&layout=donut&theme=radium&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img src="https://gh-readme-activity-graph.vercel.app/graph?username=likhithbellamkonda&theme=dracula" alt="GitHub Activity Graph" />
     </td>
   </tr>
 </table>
