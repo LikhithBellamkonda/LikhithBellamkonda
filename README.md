@@ -10,6 +10,8 @@ Make sure the repository is Public and initialize it with a README. Then, copy a
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Bellamkonda+Likhith+Praveen!+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Blockchain+Developer;IoT+%26+Backend+Systems+Engineer" alt="Typing SVG" />
   </a>
+  <br/>
+  <img src="https://camo.githubusercontent.com/1aa66fdfb75df69229d8db0b6af7872f9e480f1920f146751d1d8224b160b005/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d36633039623935326d346a65743179326f77716b647164377471637678707a78643136726c37317435616964317470362665703d76315f696e7465726e616c5f6769665f62795f6964267269643d67697068792e6769662663743d67" width="250" />
 </div>
 
 <br/>
