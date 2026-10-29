@@ -1,8 +1,5 @@
-<!--
-👋 HOW TO DISPLAY THIS ON YOUR PROFILE:
-To make this README visible on your GitHub profile, you need to create a new repository with a name that exactly matches your GitHub username (e.g., if your username is "JohnDoe", the repository must be named "JohnDoe").
-Make sure the repository is Public and initialize it with a README. Then, copy all the contents of this file into that README!
--->
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&animation=fadeIn" />
@@ -96,12 +93,10 @@ wispr-flow is an Android dictation application designed to convert speech into t
 
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=likhithbellamkonda&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithbellamkonda&theme=radium&hide_border=true" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithbellamkonda&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <i>Replace <b>YOUR_USERNAME_HERE</b> in the markdown file with your actual GitHub username to see your statistics!</i>
-</p>
+
