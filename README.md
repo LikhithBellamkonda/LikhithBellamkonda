@@ -1,6 +1,6 @@
 <!--
 👋 HOW TO DISPLAY THIS ON YOUR PROFILE:
-To make this README visible on your GitHub profile, you need to create a new repository with a name that exactly matches your GitHub username (e.g., if your username is "JohnDoe", the repository must be named "JohnDoe"). 
+To make this README visible on your GitHub profile, you need to create a new repository with a name that exactly matches your GitHub username (e.g., if your username is "JohnDoe", the repository must be named "JohnDoe").
 Make sure the repository is Public and initialize it with a README. Then, copy all the contents of this file into that README!
 -->
 
@@ -45,10 +45,10 @@ Make sure the repository is Public and initialize it with a README. Then, copy a
 <h2 align="center">🏆 Top Projects & Repositories</h2>
 <div align="center">
   <a href="https://github.com/likhithbellamkonda/NotePilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithbellamkonda&repo=NotePilot&theme=radium&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=likhithbellamkonda&repo=NotePilot&theme=radium&hide_border=true" />
   </a>
   <a href="https://github.com/likhithbellamkonda/Bharosa-Pay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithbellamkonda&repo=Bharosa-Pay&theme=radium&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=likhithbellamkonda&repo=Bharosa-Pay&theme=radium&hide_border=true" />
   </a>
 </div>
 
@@ -96,7 +96,7 @@ wispr-flow is an Android dictation application designed to convert speech into t
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=likhithbellamkonda&show_icons=true&theme=radium&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=likhithbellamkonda&show_icons=true&theme=radium&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithbellamkonda&theme=radium&hide_border=true" alt="GitHub Streak" />
@@ -105,9 +105,7 @@ wispr-flow is an Android dictation application designed to convert speech into t
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithbellamkonda&layout=donut&theme=radium&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=likhithbellamkonda&layout=donut&theme=radium&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-
