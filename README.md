@@ -44,16 +44,14 @@ Make sure the repository is Public and initialize it with a README. Then, copy a
 
 <h2 align="center">🏆 Top Projects & Repositories</h2>
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME_HERE/YOUR_REPO_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME_HERE&repo=YOUR_REPO_NAME_1&theme=radium&hide_border=true" />
+  <a href="https://github.com/likhithbellamkonda/NotePilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithbellamkonda&repo=NotePilot&theme=radium&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME_HERE/YOUR_REPO_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME_HERE&repo=YOUR_REPO_NAME_2&theme=radium&hide_border=true" />
+  <a href="https://github.com/likhithbellamkonda/Bharosa-Pay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhithbellamkonda&repo=Bharosa-Pay&theme=radium&hide_border=true" />
   </a>
 </div>
-<p align="center">
-  <i>Replace <b>YOUR_USERNAME_HERE</b> and <b>YOUR_REPO_NAME</b> with your actual details to showcase your top repositories!</i>
-</p>
+
 
 <br/>
 
@@ -98,20 +96,16 @@ wispr-flow is an Android dictation application designed to convert speech into t
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radium&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=likhithbellamkonda&show_icons=true&theme=radium&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radium&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithbellamkonda&theme=radium&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=donut&theme=radium&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithbellamkonda&layout=donut&theme=radium&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <i>Replace <b>YOUR_USERNAME_HERE</b> in the markdown file with your actual GitHub username to see your statistics!</i>
-</p>
