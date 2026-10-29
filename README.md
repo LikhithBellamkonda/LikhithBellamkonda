@@ -91,7 +91,8 @@ WhatsAppCalender is an Android application built using Kotlin, with a Node.js an
 wispr-flow is an Android dictation application designed to convert speech into text and improve the generated output using a local language model. It uses a floating control to start and stop voice input, with the goal of making dictation available across other Android applications. The application follows an offline-first approach to reduce dependence on cloud APIs and associated usage costs. It is intended to support Hinglish and Kanglish, allowing Hindi and Kannada words to be typed using English letters. Its local rewriting layer aims to turn raw speech into cleaner, personalized text while keeping processing on the device wherever possible.
 
 <br/>
-[![Likhith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LikhithBellamkonda)](https://github.com/LikhithBellamkonda/github-readme-activity-graph)
+## 📈 GitHub Activity
+
 <h2 align="center">📊 GitHub Statistics</h2>
 <table align="center">
   <tr>
