@@ -1,6 +1,6 @@
 <!--
 👋 HOW TO DISPLAY THIS ON YOUR PROFILE:
-To make this README visible on your GitHub profile, you need to create a new repository with a name that exactly matches your GitHub username (e.g., if your username is "JohnDoe", the repository must be named "JohnDoe").
+To make this README visible on your GitHub profile, you need to create a new repository with a name that exactly matches your GitHub username (e.g., if your username is "JohnDoe", the repository must be named "JohnDoe"). 
 Make sure the repository is Public and initialize it with a README. Then, copy all the contents of this file into that README!
 -->
 
@@ -109,3 +109,5 @@ wispr-flow is an Android dictation application designed to convert speech into t
     </td>
   </tr>
 </table>
+
+
