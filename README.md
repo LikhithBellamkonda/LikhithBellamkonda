@@ -57,6 +57,43 @@ Make sure the repository is Public and initialize it with a README. Then, copy a
 
 <br/>
 
+<h2 align="center">🚀 Detailed Projects Overview</h2>
+
+### 1. NotePilot
+NotePilot is an Android application designed to save and organize links, notes, and shared content. It automatically categorizes information using TF-IDF and Naive Bayes. The application supports semantic search, helping users retrieve saved information more easily. It identifies deadlines and important dates from saved content and integrates with Google Calendar for scheduling. It also generates link previews and includes text-to-speech functionality. The project aims to make information management and retrieval simpler through automation.
+
+### 2. Odoo-NMIT / DayFlow
+DayFlow is a Human Resource Management System built using React, FastAPI, and Supabase. It provides authentication and employee profile management, along with attendance tracking and leave management. The system includes payroll-related functionality and dashboards for viewing HR analytics. It supports different access levels for employees, administrators, and HR personnel. By bringing common HR operations into one application, the project aims to simplify employee management and reduce the effort involved in routine administrative tasks.
+
+### 3. Handwriting
+Handwriting is a browser-based application that converts typed text into handwriting-style PDF documents. Users can upload handwriting samples, which are processed to identify and segment individual characters. The application uses line detection to arrange the generated handwriting into a document layout. It is built using Next.js, React, and TypeScript, with IndexedDB for local browser storage. The project combines text processing and document generation to help users create personalized handwritten-looking documents directly through a browser.
+
+### 4. PulseIQ
+PulseIQ is an IoT-based prototype for monitoring stress-related signals using an ESP32, a pulse sensor, and a light sensor. Sensor readings are sent to ThingSpeak, while a React dashboard displays the collected measurements. The project compares Random Forest and Gradient Boosting models using a synthetic dataset containing 7,500 records. It reports a test accuracy of 94.76% and supports browser-based inference. The system demonstrates how sensor data and machine learning can be combined for experimental stress monitoring, although its results have not been clinically validated.
+
+### 5. IoT-F2GR-for-Smart-Home
+This project implements a smart-home IoT system using three ESP32 nodes and a Raspberry Pi coordinator. It collects environmental information through temperature, humidity, gas, motion, and light sensors. MQTT enables communication between the system components, allowing sensor readings and device interactions to be coordinated. The setup also incorporates output devices such as a buzzer and an LCD. The repository includes hardware, wiring, and firmware documentation. The project demonstrates a distributed approach to smart-home monitoring and automation using embedded devices and sensor networks.
+
+### 6. Bharosa Pay
+Bharosa Pay is a UPI QR verification project designed to help users identify potentially risky merchants before making payments. It uses merchant trust scores to support payment-related decisions and provides explanations for assigned risk scores. The application includes a frontend for checking QR-based merchant details and a FastAPI backend for verification, reporting, and statistics. A Streamlit dashboard provides a way to view system data and statistics. The project also includes a Docker Compose setup and uses synthetic data for testing. Its goal is to make merchant verification more transparent and accessible.
+
+### 7. Gesture-Subway-Surfers
+Gesture-Subway-Surfers is a computer vision project that enables users to control Subway Surfers through webcam-based body gestures. It uses MediaPipe for pose estimation and maps detected movements to in-game actions. Supported actions include moving left or right, jumping, and sliding. The system processes live camera input to recognize gestures and determine the intended action. It also includes an always-on-top heads-up display for showing controls or status information. The project demonstrates the practical application of real-time pose estimation and gesture recognition for interactive gaming.
+
+### 8. Slay
+Slay is one of the repositories included in the project portfolio, but its exact purpose and complete feature set have not yet been verified. A detailed review of its source code and documentation is needed to establish the problem it addresses and how the application works. Its main features, architecture, and technology stack should be documented clearly. Including screenshots, example outputs, or a demonstration would help communicate its functionality. A more specific technical summary can be prepared once the repository implementation has been examined.
+
+### 9. SCRUB-Metrics
+SCRUB-Metrics is a repository associated with the Scrub Robotics project. Its exact metrics, data-processing methods, and intended workflows have not yet been confirmed from the implementation. The project documentation should explain its primary purpose, the data it processes, and the outputs it generates. It should also identify the technologies and methods used. Including example results or screenshots would make its functionality easier to understand. A source-code review is required before describing its specific technical contributions accurately.
+
+### 10. WhatsAppCalender
+WhatsAppCalender is an Android application built using Kotlin, with a Node.js and Express backend. It connects WhatsApp-related workflows with Google Calendar to simplify calendar event management. The application integrates with Google Calendar for event-related operations and includes Google Meet-related functionality. Its backend coordinates requests and interactions between the mobile application and external services. The project aims to reduce the effort required to schedule calendar events and create meetings by connecting mobile workflows with productivity tools.
+
+### 11. wispr-flow
+wispr-flow is an Android dictation application designed to convert speech into text and improve the generated output using a local language model. It uses a floating control to start and stop voice input, with the goal of making dictation available across other Android applications. The application follows an offline-first approach to reduce dependence on cloud APIs and associated usage costs. It is intended to support Hinglish and Kanglish, allowing Hindi and Kannada words to be typed using English letters. Its local rewriting layer aims to turn raw speech into cleaner, personalized text while keeping processing on the device wherever possible.
+
+<br/>
+
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="GitHub Stats" />
